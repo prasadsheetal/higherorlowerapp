@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/ico"
-        android:label="@string/app_name"
+        android:label="Higher Or Lower"
         android:roundIcon="@drawable/ico"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
